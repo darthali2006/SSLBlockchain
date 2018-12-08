@@ -1,14 +1,11 @@
-#SSLBlockchain
-
-An implementation of the SSL protocol on the Blockchain.
-
 README
 -------------------------------
-Ali Akbar
-UFID - 8498-3349
+Ali, Prahlad, Vaishali
 
 The contents of this folder include -
-
+-Project Presentation (Slides)
+-Project Report
+-Project Paper
 -4 java files and a makefile
 -3 priv/pub key pairs
 -3 certificates and their detail files.
